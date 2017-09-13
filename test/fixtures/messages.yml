@@ -1,0 +1,11 @@
+# Read about fixtures at http://api.rubyonrails.org/classes/ActiveRecord/FixtureSet.html
+
+one:
+  photo: one
+  teacher: one
+  parent: one
+
+two:
+  photo: two
+  teacher: two
+  parent: two
